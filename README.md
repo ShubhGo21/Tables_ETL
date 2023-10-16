@@ -1,5 +1,7 @@
 # Tables_ETL
-Extracting table from Oracle and loading into Snowflake table
+Migrating table from Oracle and loading into Snowflake table
+
+![image](https://github.com/ShubhGo21/Tables_ETL/assets/114352465/324f88bd-235f-4dc8-9e51-b5e47a6d6778)
 
 Here we are extracting table from oracle , loading that csv to snowflake internal/external stage and through that stage loading that csv to snowflake table.
 
